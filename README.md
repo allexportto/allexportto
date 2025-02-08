@@ -5,7 +5,7 @@
 🚀 Apaixonado por tecnologia, desenvolvimento e logística  
 📚 Sempre em busca de aprendizado e novas oportunidades  
 
-![Alex Porto](https://github-readme-stats.vercel.app/api?username=Alex Porto&show_icons=true&theme=transparent)
+![Alex Porto](https://github-readme-stats.vercel.app/api?username=AlexPorto&show_icons=true&theme=transparent)
 
 ### 🚀 Tecnologias que gosto de trabalhar:  
 
