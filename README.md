@@ -5,7 +5,7 @@
 🚀 Apaixonado por tecnologia, desenvolvimento e logística  
 📚 Sempre em busca de aprendizado e novas oportunidades  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Alex Porto's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ### 🚀 Tecnologias que gosto de trabalhar:  
 
