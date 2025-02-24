@@ -2,7 +2,7 @@
 
 💡 **Sobre mim**  
 🎓 Estudante de **Sistemas de Informação** na Wyaden  
-🚀 Apaixonado por tecnologia, desenvolvimento  
+🚀 Apaixonado por tecnologia, em desenvolvimento...  
 📚 Sempre em busca de aprendizado e novas oportunidades  
 
 ![Alex Porto](https://github-readme-stats.vercel.app/api?username=AlexPorto&show_icons=true&theme=dracula)
